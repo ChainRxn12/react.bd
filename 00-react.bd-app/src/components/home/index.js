@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import Portrait from "";
 
-function home() {
+function Home() {
   return (
     <section className="home my-5">
       <div className="title">
@@ -22,4 +22,4 @@ function home() {
   );
 }
 
-export default home;
+export default Home;

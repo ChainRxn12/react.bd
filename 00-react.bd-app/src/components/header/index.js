@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from "react-router-dom"
-import NavBar from "../NavBar";
+import NavBar from "../Navbar";
 
-function header() {
+function Header() {
 
   return (
     <header className="flex-row px-1">
@@ -16,4 +16,4 @@ function header() {
   );
 }
 
-export default header;
+export default Header;
