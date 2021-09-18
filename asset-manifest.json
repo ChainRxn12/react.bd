@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.509d98f6.chunk.js",
-    "main.js.map": "/static/js/main.509d98f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2679584b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2679584b.js.map",
-    "static/js/2.ac575b1e.chunk.js": "/static/js/2.ac575b1e.chunk.js",
-    "static/js/2.ac575b1e.chunk.js.map": "/static/js/2.ac575b1e.chunk.js.map",
-    "static/js/3.591b268c.chunk.js": "/static/js/3.591b268c.chunk.js",
-    "static/js/3.591b268c.chunk.js.map": "/static/js/3.591b268c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ac575b1e.chunk.js.LICENSE.txt": "/static/js/2.ac575b1e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/react.bd/static/css/main.d767bcd3.chunk.css",
+    "main.js": "/react.bd/static/js/main.cf08c0ae.chunk.js",
+    "main.js.map": "/react.bd/static/js/main.cf08c0ae.chunk.js.map",
+    "runtime-main.js": "/react.bd/static/js/runtime-main.55dd87fd.js",
+    "runtime-main.js.map": "/react.bd/static/js/runtime-main.55dd87fd.js.map",
+    "static/js/2.f237efbb.chunk.js": "/react.bd/static/js/2.f237efbb.chunk.js",
+    "static/js/2.f237efbb.chunk.js.map": "/react.bd/static/js/2.f237efbb.chunk.js.map",
+    "static/js/3.df534508.chunk.js": "/react.bd/static/js/3.df534508.chunk.js",
+    "static/js/3.df534508.chunk.js.map": "/react.bd/static/js/3.df534508.chunk.js.map",
+    "index.html": "/react.bd/index.html",
+    "service-worker.js": "/react.bd/service-worker.js",
+    "service-worker.js.map": "/react.bd/service-worker.js.map",
+    "static/css/main.d767bcd3.chunk.css.map": "/react.bd/static/css/main.d767bcd3.chunk.css.map",
+    "static/js/2.f237efbb.chunk.js.LICENSE.txt": "/react.bd/static/js/2.f237efbb.chunk.js.LICENSE.txt",
+    "static/media/bitmoji2.07653c4e.png": "/react.bd/static/media/bitmoji2.07653c4e.png",
+    "static/media/ecommerce1.b3c7398b.png": "/react.bd/static/media/ecommerce1.b3c7398b.png",
+    "static/media/employee1.ee975c96.png": "/react.bd/static/media/employee1.ee975c96.png",
+    "static/media/notetaker1.76caf651.png": "/react.bd/static/media/notetaker1.76caf651.png",
+    "static/media/resume.9a09814b.png": "/react.bd/static/media/resume.9a09814b.png",
+    "static/media/schedulemepic.859292ad.png": "/react.bd/static/media/schedulemepic.859292ad.png",
+    "static/media/schooly_screenshot.4465b338.png": "/react.bd/static/media/schooly_screenshot.4465b338.png",
+    "static/media/teamgen3.771af113.png": "/react.bd/static/media/teamgen3.771af113.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2679584b.js",
-    "static/js/2.ac575b1e.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.509d98f6.chunk.js"
+    "static/js/runtime-main.55dd87fd.js",
+    "static/js/2.f237efbb.chunk.js",
+    "static/css/main.d767bcd3.chunk.css",
+    "static/js/main.cf08c0ae.chunk.js"
   ]
 }
