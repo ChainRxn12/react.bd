@@ -28,7 +28,9 @@
   
 ## Usage
   
-*  This is a portfolio application powered by react-app and deployed on GH-Pages.
+*  This is a portfolio application powered by react-app and deployed on GH-Pages.  This react-app portfolio shows potential employers my ability to create single-page applications.  The react-app portfolio application displays a header, footer, and body that transitions seemlessly through the different sections of the portfolio with the help of a navigation bar.
+
+*  Included in the react-app portfolio is an About Me, Portfolio, Contact, and Resume for the applicant.  The footer displays icon links for associated social media (Github, LinkedIn, Instagram, etc.)
   
 ## Contributing
   
