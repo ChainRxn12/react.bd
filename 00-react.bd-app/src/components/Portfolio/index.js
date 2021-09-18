@@ -14,6 +14,8 @@ function Portfolio() {
       <div className="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 g-4">
         <div className="col">
           <div className="card">
+            <h1>Schedule.ME</h1>
+            <h3>a simple schedule app for organizing your day.</h3>
             <img
               src={Scheduleme}
               alt="Schedule.Me"
@@ -34,6 +36,8 @@ function Portfolio() {
 
         <div className="col">
           <div className="card">
+            <h1>Schooly</h1>
+            <h3>a new look on school databases</h3>
             <img
               src={Schooly}
               alt="Schooly"
@@ -49,9 +53,11 @@ function Portfolio() {
             </div>
           </div>
         </div>
-
+        
         <div className="col">
           <div className="card">
+            <h1>Team Generator</h1>
+            <h3>create a team from your terminal</h3>
             <img
               src={TeamGen}
               alt="Team Generator"
@@ -71,6 +77,8 @@ function Portfolio() {
 
         <div className="col">
           <div className="card">
+            <h1>eCommerce</h1>
+            <h3>a terminal app for the ecommerce backend</h3>
             <img
               src={Ecommerce}
               alt="Ecommerce"
@@ -89,6 +97,8 @@ function Portfolio() {
 
         <div className="col">
           <div className="card">
+            <h1>Employee-O-Matic</h1>
+            <h3>a command-line app for departments</h3>
             <img
               src={Employee}
               alt="Employee"
@@ -107,6 +117,8 @@ function Portfolio() {
 
         <div className="col">
           <div className="card">
+            <h1>Notetaker</h1>
+            <h3>a simple note taking application</h3>
             <img
               src={Notetaker}
               alt="Notetaker"
