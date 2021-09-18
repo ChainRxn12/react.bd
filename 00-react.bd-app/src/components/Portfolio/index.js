@@ -9,17 +9,17 @@ import TeamGen from "../../assets/images/teamgen3.png";
 
 function Portfolio() {
   return (
-    <section class="portfolio">
+    <section className="portfolio">
 
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 g-4">
-        <div class="col">
-          <div class="card">
+      <div className="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 g-4">
+        <div className="col">
+          <div className="card">
             <img
               src={Scheduleme}
               alt="Schedule.Me"
-              class="card-img-top"
+              className="card-img-top"
             />
-            <div class="card-body">
+            <div className="card-body">
 
               <a href="https://github.com/ChainRxn12/schedule.me" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
@@ -32,14 +32,14 @@ function Portfolio() {
         </div>
 
 
-        <div class="col">
-          <div class="card">
+        <div className="col">
+          <div className="card">
             <img
               src={Schooly}
               alt="Schooly"
-              class="card-img-top"
+              className="card-img-top"
             />
-            <div class="card-body">
+            <div className="card-body">
               <a href="https://github.com/ChainRxn12/schooly" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
@@ -50,14 +50,14 @@ function Portfolio() {
           </div>
         </div>
 
-        <div class="col">
-          <div class="card">
+        <div className="col">
+          <div className="card">
             <img
               src={TeamGen}
               alt="Team Generator"
-              class="card-img-top"
+              className="card-img-top"
             />
-            <div class="card-body">
+            <div className="card-body">
               <a href="https://github.com/ChainRxn12/team-generator" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
@@ -69,14 +69,14 @@ function Portfolio() {
         </div>
 
 
-        <div class="col">
-          <div class="card">
+        <div className="col">
+          <div className="card">
             <img
               src={Ecommerce}
               alt="Ecommerce"
-              class="card-img-top"
+              className="card-img-top"
             />
-            <div class="card-body">
+            <div className="card-body">
               <a href="https://github.com/ChainRxn12/Ecommerce" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
@@ -87,14 +87,14 @@ function Portfolio() {
           </div>
         </div>
 
-        <div class="col">
-          <div class="card">
+        <div className="col">
+          <div className="card">
             <img
               src={Employee}
               alt="Employee"
-              class="card-img-top"
+              className="card-img-top"
             />
-            <div class="card-body">
+            <div className="card-body">
               <a href="https://github.com/ChainRxn12/employee-o-matic" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
@@ -105,14 +105,14 @@ function Portfolio() {
           </div>
         </div>
 
-        <div class="col">
-          <div class="card">
+        <div className="col">
+          <div className="card">
             <img
               src={Notetaker}
               alt="Notetaker"
-              class="card-img-top"
+              className="card-img-top"
             />
-            <div class="card-body">
+            <div className="card-body">
               <a href="https://github.com/ChainRxn12/Note-Taker" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>

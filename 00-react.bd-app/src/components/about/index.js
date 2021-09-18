@@ -4,7 +4,7 @@ import React from 'react';
 
 function About() {
   return (
-    <section class="about">
+    <section className="about">
       <h1 id="about">About Billy Dorman</h1>
       <p>
           I am a Web Developer with a keen eye for creating visually appealing and 

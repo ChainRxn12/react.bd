@@ -55,6 +55,7 @@ h6 {
   font-weight: 300;
   margin: 5px 0;
   line-height: 1.25;
+  text-align: center;
 }
 
 h1 {
@@ -105,7 +106,7 @@ header {
   justify-content: center;
   align-items: baseline;
   padding: 10px;
-  border-bottom: 2px solid red;
+  border-bottom: 5px solid red;
   background: #2587f0;
 }
 
@@ -123,6 +124,7 @@ button {
   cursor: pointer;
   margin: 0 1px;
   background-color: var(--secondary);
+  
 }
 
 button:hover {
@@ -134,8 +136,8 @@ button[disabled] {
   opacity: 0.8;
 }
 .portfolio {
-  /* justify-content: center;
-  display: flex; */
+  justify-content: center;
+  display: flex;
   margin: 10px auto;
 }
 
@@ -145,7 +147,7 @@ button[disabled] {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 form {
@@ -172,13 +174,13 @@ li {
 
 nav a:hover {
   text-decoration: none;
-  color: black;
+  color: red;
   font-style: italic;
 }
 
 .logo a:hover {
   text-decoration: none;
-  color: black;
+  color: red;
   font-style: italic;
 }
 
@@ -321,7 +323,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-top: 2px solid red;
+  border-top: 5px solid red;
   background: #2587f0; 
 }
 
